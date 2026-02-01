@@ -5,10 +5,10 @@ On this day, I learn a few Git Commands, such as:
 
 
 # Working Locally
-- cd (directory)
-## This command changes the working directory
+**cd (directory)** <br>
+This command changes the working directory
 
-- mkdir (name) <br>
+**mkdir (name)** <br>
 With this command, we can create a folder within the repository
 
 - touch (filename)
