@@ -8,7 +8,7 @@ On this day, I learn a few Git Commands, such as:
 - 'cd (directory)'
 This command changes the working directory
 
-- 'mkdir (name)'
+- 'mkdir (name)' <br>
 With this command, we can create a folder within the repository
 
 - 'touch' (filename)'
